@@ -1,0 +1,13 @@
+/workspaces/rest-api/rest/target/debug/deps/net2-d721d42722317bb5.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/tcp.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/udp.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/socket.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/ext.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/utils.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/sys/unix/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/sys/unix/impls.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/unix.rs
+
+/workspaces/rest-api/rest/target/debug/deps/net2-d721d42722317bb5.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/tcp.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/udp.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/socket.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/ext.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/utils.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/sys/unix/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/sys/unix/impls.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/unix.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/tcp.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/udp.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/socket.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/ext.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/utils.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/sys/unix/mod.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/sys/unix/impls.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/unix.rs:

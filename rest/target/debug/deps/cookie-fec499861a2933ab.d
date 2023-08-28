@@ -1,0 +1,12 @@
+/workspaces/rest-api/rest/target/debug/deps/cookie-fec499861a2933ab.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/builder.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/parse.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/jar.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/delta.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/draft.rs
+
+/workspaces/rest-api/rest/target/debug/deps/libcookie-fec499861a2933ab.rlib: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/builder.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/parse.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/jar.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/delta.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/draft.rs
+
+/workspaces/rest-api/rest/target/debug/deps/cookie-fec499861a2933ab.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/builder.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/parse.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/jar.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/delta.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/draft.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/builder.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/parse.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/jar.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/delta.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/draft.rs:
